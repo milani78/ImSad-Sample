@@ -1,7 +1,7 @@
 # ImSad-Sample
 <b>App description:</b><br>
 ImSad is a feel good app, created to bring a smile to a stranger across the globe by sending them a funny animated gift. 
-<br>
+<br><br>
 <i>My role in the project:</i>
 <br>
 <ul>

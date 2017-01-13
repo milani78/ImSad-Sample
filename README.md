@@ -1,8 +1,10 @@
 # ImSad-Sample
 <b>App description:</b><br>
 ImSad is a feel good app, created to bring a smile to a stranger across the globe by sending them a funny animated gift. 
+<br>
+<i>My role in the project:</i>
+<br>
 <ul>
-<li><i>My role in the project:</i></li>
 <li>As the sole developer on the app, I’ve setup the back end on AWS and coded ImSad in Objective-C.</li>
 <li>The app runs on AWS, which was was chosen for its scalability. I’ve implemented DynamoDB database, S3 storage, SNS push notifications and Lambda services to support the project.</li>
 <li>A lot of care and attention went into making each interaction delightful with animations and sounds.</li>
